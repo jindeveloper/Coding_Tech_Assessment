@@ -17,4 +17,5 @@ Please see the screenshot below.
 
 ## Console Application
 
+![output-tech-assessment](https://github.com/jindeveloper/Coding_Tech_Assessment/assets/39805502/c879b416-6201-41b7-8728-4ea9fc784abe)
 
