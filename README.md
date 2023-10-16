@@ -19,3 +19,7 @@ Please see the screenshot below.
 
 ![output-tech-assessment](https://github.com/jindeveloper/Coding_Tech_Assessment/assets/39805502/c879b416-6201-41b7-8728-4ea9fc784abe)
 
+## Demo
+
+https://github.com/jindeveloper/Coding_Tech_Assessment/assets/39805502/71f666de-da42-4686-ab05-c1f7357cb16d
+
