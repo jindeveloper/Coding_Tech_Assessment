@@ -21,5 +21,5 @@ Please see the screenshot below.
 
 ## Demo
 
-https://github.com/jindeveloper/Coding_Tech_Assessment/assets/39805502/71f666de-da42-4686-ab05-c1f7357cb16d
+[![Demo](https://github.com/jindeveloper/Coding_Tech_Assessment/assets/39805502/71f666de-da42-4686-ab05-c1f7357cb16d)](https://github.com/jindeveloper/Coding_Tech_Assessment/assets/39805502/71f666de-da42-4686-ab05-c1f7357cb16d)
 
